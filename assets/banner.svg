@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="조아진 · Java / Spring Backend Developer">
+  <title>조아진 — Java / Spring Backend Developer</title>
+
+  <defs>
+    <!-- 파스텔 하늘: 라벤더 → 스카이 → 민트 -->
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#D9D2F5">
+        <animate attributeName="stop-color"
+                 values="#D9D2F5;#CFE4F7;#D7EFE6;#F6DDD5;#D9D2F5"
+                 dur="24s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="55%"  stop-color="#CFE4F7">
+        <animate attributeName="stop-color"
+                 values="#CFE4F7;#D7EFE6;#F6DDD5;#D9D2F5;#CFE4F7"
+                 dur="24s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F6DDD5">
+        <animate attributeName="stop-color"
+                 values="#F6DDD5;#D9D2F5;#CFE4F7;#D7EFE6;#F6DDD5"
+                 dur="24s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- 아래쪽 크림빛 물결 -->
+    <linearGradient id="waveA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF7F0" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#FFF7F0" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="waveB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFDFB" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#FFFDFB" stop-opacity="1"/>
+    </linearGradient>
+
+    <!-- 떠다니는 블롭용 부드러운 원 -->
+    <radialGradient id="blob" cx="35%" cy="30%">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+    </radialGradient>
+
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1000" height="280" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- 하늘 -->
+    <rect width="1000" height="280" fill="url(#sky)"/>
+
+    <!-- 천천히 떠다니는 파스텔 블롭들 -->
+    <g>
+      <circle cx="120" cy="70" r="58" fill="url(#blob)">
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; 18 -10; 0 6; -14 -4; 0 0"
+                          dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="880" cy="60" r="44" fill="url(#blob)">
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; -16 8; 6 -8; 12 4; 0 0"
+                          dur="21s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="760" cy="150" r="30" fill="#FFFFFF" opacity="0.28">
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; 10 -12; -8 -2; 0 0"
+                          dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="260" cy="185" r="22" fill="#FFFFFF" opacity="0.22">
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; -12 -8; 6 4; 0 0"
+                          dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="960" cy="190" r="26" fill="#FFFFFF" opacity="0.20">
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; -8 -10; 4 6; 0 0"
+                          dur="19s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- 반짝이는 작은 점들 -->
+    <g fill="#FFFFFF">
+      <circle cx="330" cy="48" r="2.5">
+        <animate attributeName="opacity" values="0.2;0.9;0.2" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="38" r="2">
+        <animate attributeName="opacity" values="0.8;0.15;0.8" dur="5.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="520" cy="220" r="2.2">
+        <animate attributeName="opacity" values="0.15;0.75;0.15" dur="6.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="215" r="1.8">
+        <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="180" cy="130" r="2">
+        <animate attributeName="opacity" values="0.1;0.7;0.1" dur="7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- 물결 2겹: 서로 다른 속도로 흘러 깊이감 -->
+    <g transform="translate(0,196)">
+      <path fill="url(#waveA)"
+            d="M0,44 C120,14 240,74 360,44 C480,14 600,74 720,44 C840,14 960,74 1080,44 L1080,84 L0,84 Z">
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; -360 0" dur="16s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g transform="translate(0,214)">
+      <path fill="url(#waveB)"
+            d="M0,40 C150,66 300,10 450,40 C600,70 750,12 900,40 C1050,68 1200,14 1350,40 L1350,80 L0,80 Z">
+        <animateTransform attributeName="transform" type="translate"
+                          values="-450 0; 0 0" dur="22s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- 텍스트 -->
+    <g text-anchor="middle"
+       font-family="'Pretendard','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕','Noto Sans KR',sans-serif">
+      <text x="500" y="112" font-size="62" font-weight="800" fill="#463F5E" letter-spacing="6">
+        조아진
+        <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+      </text>
+      <text x="500" y="146" font-size="16" font-weight="600" fill="#6E6689" letter-spacing="9">
+        CHO A JIN
+        <animate attributeName="opacity" values="0;0;0.95" dur="2s" fill="freeze"/>
+      </text>
+
+      <!-- 파스텔 알약 배지 -->
+      <g>
+        <animate attributeName="opacity" values="0;0;1" dur="2.6s" fill="freeze"/>
+        <rect x="330" y="166" width="340" height="34" rx="17"
+              fill="#FFFFFF" fill-opacity="0.62" stroke="#8E82C4" stroke-opacity="0.35"/>
+        <text x="500" y="189" font-size="15" font-weight="700" fill="#5A5177" letter-spacing="1.5">
+          Java / Spring Backend Developer
+        </text>
+      </g>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="279" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.7"/>
+</svg>
