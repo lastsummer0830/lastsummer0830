@@ -4,12 +4,12 @@
 
 ### Java & Web Application Developer — 신입
 
-**요식업 헤드셰프까지 오른 현장 실행력을, 사용자 경험 코드로 옮기는 Java 웹 풀스택 신입**
-최근 두 직장 연속 2년 2개월 근속 · 두 곳 모두 승진 · 팀 프로젝트 4개 중 2개 팀장·총괄
+**요식업 현장의 실행력을 웹 서비스 코드로 옮기고 있는 Java 웹 풀스택 신입**
+최근 두 직장 연속 2년 2개월 근속 · 두 곳 모두 승진 · 팀 프로젝트 4개 경험
 
-[![Email](https://img.shields.io/badge/lastsummer0830@gmail.com-FBD9CE?style=for-the-badge&logo=gmail&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
-[![GitHub](https://img.shields.io/badge/lastsummer0830-D6CFF0?style=for-the-badge&logo=github&logoColor=4A4458)](https://github.com/lastsummer0830)
-[![Profile](https://img.shields.io/badge/프로필_README-C5E5D8?style=for-the-badge&logo=readme&logoColor=4A4458)](./README.md)
+[![Email](https://img.shields.io/badge/lastsummer0830@gmail.com-FBD9CE?style=flat-square&logo=gmail&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
+[![GitHub](https://img.shields.io/badge/lastsummer0830-D6CFF0?style=flat-square&logo=github&logoColor=4A4458)](https://github.com/lastsummer0830)
+[![Profile](https://img.shields.io/badge/프로필_README-C5E5D8?style=flat-square&logo=readme&logoColor=4A4458)](./README.md)
 
 </div>
 
@@ -19,22 +19,28 @@
 
 - **Java · Servlet/JSP · Spring Boot · Oracle 기반 웹 프로젝트 4개**를 기획부터 배포까지 경험한 신입 개발자입니다.
 - 요식업 현장에서 **조리 자격 없이 실력만으로 헤드셰프까지 승진** — 최근 두 직장 모두 2년 2개월 근속 + 승진으로 태도를 증명했습니다.
-- 팀 프로젝트 4개 중 **2개에서 팀장·총괄**을 맡아 일정 관리, 코드 통합(PR 60여 건 무충돌 머지), 최종 발표까지 수행했습니다.
+- 팀 프로젝트 4개에서 **조장(1회)과 전체 설계 주도(1회)**를 맡아 일정 관리, PR 기반 코드 통합, 최종 발표까지 수행했습니다.
 - AI를 단순 생성 도구가 아니라 **맥락 설계 → 결과 감독·검증** 도구로 활용하며, 문서화·검증 루틴을 습관화했습니다.
 
 <br/>
 
 ## 🧰 기술 스택
 
+**프로젝트에서 사용한 기술**
+
 | 구분 | 기술 |
 |---|---|
 | **Language** | Java · SQL · JavaScript · jQuery · HTML5 · CSS3 · 반응형 웹 |
-| **Backend** | Servlet/JSP · Spring · Spring Boot · JDBC · MyBatis · JPA · JSTL · Gson/JSON(AJAX) · RESTful API · OAuth2(네이버·Google·GitHub 로그인) |
+| **Backend** | Servlet/JSP · Spring Boot · MyBatis · Thymeleaf · JSTL · Gson/JSON(AJAX) · RESTful API · OAuth2(네이버·Google·GitHub 로그인) |
 | **설계·패턴** | MVC2 아키텍처 · 객체지향(상속·다형성·인터페이스) |
 | **Database** | Oracle DB · MySQL · SQL 설계 · Join · Transaction |
 | **GUI·데스크톱** | Java Swing · Electron |
 | **Tool·협업** | Git/GitHub · Eclipse · VS Code · Maven · Apache Tomcat · GitHub Pages · Slack · Notion · Obsidian · Figma |
 | **기타** | REST OpenAPI 연동(KMDb) · SHA-256 해시 처리 · AI Agent 활용 |
+
+**수업에서 실습한 기술** <sub>— 아직 프로젝트에 적용해 본 단계는 아닙니다</sub>
+
+`Spring(코어)` `JDBC` `JPA` `Docker` `AWS EC2`
 
 <br/>
 
@@ -64,11 +70,11 @@
 
 ### 🛋 공간이 머무는 곳 — 반응형 가구 · 인테리어 쇼핑몰
 
-<samp>팀 4명 · 2026.02 · <b>팀장 — 일정 관리 · 코드 통합 총괄, 메인/상세 화면 프론트엔드</b></samp>
+<samp>팀 4명 · 2026.02 · <b>조장 — 일정 관리 · 코드 통합, 메인/상세 화면 프론트엔드</b></samp>
 
 `HTML5` `CSS3` `JavaScript` `Git/GitHub` `GitHub Pages 배포`
 
-- 4명 동시 작업으로 코드 충돌이 잦았습니다 → 팀장으로 **feature 브랜치 + Pull Request 워크플로우를 도입**하고 머지·충돌을 직접 관리해 **PR 60여 건을 충돌 없이 통합**했습니다.
+- 4명 동시 작업으로 코드 충돌이 잦았습니다 → 조장으로 **feature 브랜치 + Pull Request 워크플로우를 도입**해, 팀 전체 **PR 65건이 충돌 없이 통합**되도록 운영했습니다.
 - 메인·네비게이션·제품 목록/상세·BEST 섹션을 마크업부터 인터랙션까지 구현하고, 반응형 레이아웃을 적용해 **GitHub Pages로 배포**했습니다.
 
 ### 🎮 Pokemon — Java Swing 턴제 배틀 게임
@@ -103,10 +109,6 @@
 | 2019.03 ~ 중퇴 | 정화예술대학교 · 메이크업학과 |
 | 2019.02 | 사동고등학교 졸업 |
 
-## 🏅 자격증 · 면허
-
-`소방안전관리자 1급` `피부미용 국가기술자격` `메이크업 국가기술자격` `운전면허(보통)`
-
 <br/>
 
 ## ❝ 자기소개
@@ -123,9 +125,9 @@
 
 제 가장 큰 장점은 낯선 일도 빠르게 익혀 성과로 만들어내는 적응력입니다. 라브리크에서는 조리 자격증 없이 일반 직원으로 입사했지만, 현장에서 필요한 것을 스스로 익히고 채우며 실력만으로 헤드셰프 자리까지 올랐습니다. 이 태도는 비전공으로 시작한 개발에서도 이어졌습니다. 코딩을 완전한 기초부터 시작했지만 전공자들과 함께한 교육 과정에서 여러 팀 프로젝트의 조장을 맡았고, 무언가를 캐치하는 센스와 적응 능력이 압도적이라는 평가를 받았습니다. 다만 완성도에 집착해 필요 이상으로 시간을 쓰는 것이 단점입니다. 포켓몬 배틀 게임을 만들 때도 타입 상성 로직을 완벽하게 다듬느라 일정이 밀린 적이 있습니다. 이후에는 먼저 동작하는 최소 버전을 만들고 나서 개선하는 방식으로 바꿔, 완성도와 일정을 함께 지키려 노력하고 있습니다.
 
-**❝ PR 60여 건을 충돌 없이 통합한 팀장, 화면부터 DB까지 — 직무 역량**
+**❝ 화면부터 DB까지, 네 번의 팀 프로젝트 — 직무 역량**
 
-네 번의 팀 프로젝트에서 백엔드부터 화면, 협업까지 경험하며 풀스택 역량을 쌓았습니다. KNOWVA에서는 learning 도메인을 맡아 단계 잠금해제 로직을 UnlockService 하나로 모으고 다른 도메인도 이 계약을 거치도록 통일했습니다. Popflix에서는 연속 관람 뱃지가 연말·연초 기록을 놓치던 문제를 ISO 주차 기준 판정으로 해결했고, 예매 중복 기록은 UNIQUE 제약으로 DB 레벨에서 차단했습니다. 가구 쇼핑몰 프로젝트에서는 팀장으로 PR 60여 건을 충돌 없이 통합했습니다. 기능을 나열하기보다 어떤 문제를 왜 그렇게 풀었는지 설명할 수 있는 개발자가 되겠습니다.
+네 번의 팀 프로젝트에서 백엔드부터 화면, 협업까지 경험하며 풀스택 역량을 쌓았습니다. KNOWVA에서는 learning 도메인을 맡아 단계 잠금해제 로직을 UnlockService 하나로 모으고 다른 도메인도 이 계약을 거치도록 통일했습니다. Popflix에서는 연속 관람 뱃지가 연말·연초 기록을 놓치던 문제를 ISO 주차 기준 판정으로 해결했고, 예매 중복 기록은 UNIQUE 제약으로 DB 레벨에서 차단했습니다. 가구 쇼핑몰 프로젝트에서는 조장으로 feature 브랜치와 PR 워크플로우를 도입해 팀 PR 65건이 충돌 없이 통합되도록 운영했습니다. 기능을 나열하기보다 어떤 문제를 왜 그렇게 풀었는지 설명할 수 있는 개발자가 되겠습니다.
 
 **❝ 디자이너 없이 화면을 그리고, AI를 감독해 완성합니다 — 저만의 강점**
 
@@ -141,8 +143,8 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/lastsummer0830@gmail.com-FBD9CE?style=for-the-badge&logo=gmail&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
-[![GitHub](https://img.shields.io/badge/lastsummer0830-D6CFF0?style=for-the-badge&logo=github&logoColor=4A4458)](https://github.com/lastsummer0830)
+[![Email](https://img.shields.io/badge/lastsummer0830@gmail.com-FBD9CE?style=flat-square&logo=gmail&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
+[![GitHub](https://img.shields.io/badge/lastsummer0830-D6CFF0?style=flat-square&logo=github&logoColor=4A4458)](https://github.com/lastsummer0830)
 
 <sub>읽어 주셔서 감사합니다. 궁금한 점은 언제든 메일로 연락 주세요 :)</sub>
 
