@@ -6,6 +6,11 @@
 
 ### 불편한 걸 말하는 쪽이 아니라, 직접 고치는 쪽이 되고 싶었습니다.
 
+<br/>
+
+[![이력서](https://img.shields.io/badge/📄_이력서_한눈에_보기-8E82C4?style=for-the-badge&logoColor=FFFFFF)](./RESUME.md)
+[![Email](https://img.shields.io/badge/📮_Email-FBD9CE?style=for-the-badge&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
+
 </div>
 
 <br/>
@@ -25,6 +30,8 @@
 <br/>
 
 ## 📦 Projects
+
+<img src="./assets/timeline.svg" width="100%" alt="2026 프로젝트 타임라인 — 공간이 머무는 곳(팀장) → Pokemon(설계 총괄) → Popflix(필름 다이어리·DB) → KNOWVA(learning 도메인 owner)" />
 
 ### 🌌 Knowva — 우주 컨셉 E-러닝 플랫폼
 
@@ -145,6 +152,7 @@ DB 설계와 최종 발표도 맡았습니다.
 
 ## 📮 Contact
 
+[![이력서](https://img.shields.io/badge/📄_이력서-8E82C4?style=for-the-badge&logoColor=FFFFFF)](./RESUME.md)
 [![Email](https://img.shields.io/badge/lastsummer0830@gmail.com-FBD9CE?style=for-the-badge&logo=gmail&logoColor=4A4458)](mailto:lastsummer0830@gmail.com)
 [![GitHub](https://img.shields.io/badge/lastsummer0830-D6CFF0?style=for-the-badge&logo=github&logoColor=4A4458)](https://github.com/lastsummer0830)
 
