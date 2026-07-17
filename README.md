@@ -65,7 +65,7 @@
 
 ### 🎬 Popflix — 영화 예매 · 리뷰 · 필름 다이어리
 
-<samp>팀 5명 · 2026.05 · <b>필름 다이어리 모듈 직접 제안·전담 · DB 설계 · 최종 발표</b></samp>
+<samp>팀 5명 · 2026.05 · <b>필름 다이어리 모듈 직접 제안·전담 · DB 설계 · 최종 발표</b> · <a href="https://github.com/lastsummer0830/webProj_Popflex">repo ↗</a></samp>
 
 관람 기록을 일기처럼 남기는 **필름 다이어리** 기능을 직접 제안하고 전담 구현했습니다.
 
@@ -107,7 +107,7 @@
 
 ### 🛋 공간이 머무는 곳 — 반응형 가구 · 인테리어 쇼핑몰
 
-<samp>팀 4명 · 2026.02 · <b>조장 — 일정 관리 · 코드 통합, 메인/상세 프론트엔드</b></samp>
+<samp>팀 4명 · 2026.02 · <b>조장 — 일정 관리 · 코드 통합, 메인/상세 프론트엔드</b> · <a href="https://github.com/lastsummer0830/acorn-interior-shop">repo ↗</a></samp>
 
 4명이 동시에 작업하며 코드 충돌이 잦았습니다.
 조장으로 **feature 브랜치 + Pull Request 워크플로우를 도입**해, 팀 전체 **PR 65건이 충돌 없이 통합**되도록 운영했습니다.
@@ -121,7 +121,7 @@
 
 ### 🏝 MyWorld — 3D 인터랙티브 포트폴리오
 
-<samp>개인 · 진행 중</samp>
+<samp>개인 · 진행 중 · <a href="https://github.com/lastsummer0830/MyWorld">repo ↗</a></samp>
 
 아이소메트릭 디오라마 씬을 **외부 모델·텍스처 없이 순수 코드로** 만들고 있는 포트폴리오 사이트입니다.
 
