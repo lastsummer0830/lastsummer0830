@@ -29,18 +29,6 @@
 
 <br/>
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lastsummer0830&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=ko&bg_color=FFFDFB&title_color=8E82C4&text_color=4A4458&icon_color=B3A6E3&ring_color=F7B9A6" height="170" alt="GitHub Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lastsummer0830&hide_border=true&bg_color=FFFDFB&color=6E6689&line=B3A6E3&point=F7B9A6&area=true&area_color=EFEAFB" width="100%" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
 ## 📦 Projects
 
 <img src="./assets/timeline.svg" width="100%" alt="2026 프로젝트 타임라인 — 공간이 머무는 곳(팀장) → Pokemon(설계 총괄) → Popflix(필름 다이어리·DB) → KNOWVA(learning 도메인 owner)" />
