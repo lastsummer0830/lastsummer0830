@@ -12,9 +12,9 @@
 
 ## 👋 About
 
-**Java · Spring 기반 웹 애플리케이션을 백엔드부터 화면까지 만드는 신입 개발자입니다.**
+**Java · Spring 기반 웹 애플리케이션을 백엔드부터 화면까지 만드는 신입 개발자 조아진입니다.**
 
-팀 프로젝트 4개에서 도메인 설계 · DB 모델링 · 협업 워크플로우를 맡았습니다.
+팀 프로젝트 4개에서 도메인 설계 · DB 모델링 · 협업 워크플로우를 맡았고, 게임 엔진을 직접 짜는 등 개인 프로젝트도 이어가고 있습니다.
 기능을 나열하기보다 _어떤 문제를 왜 그렇게 풀었는지_ 설명할 수 있는 개발을 지향합니다.
 
 **이런 걸 잘합니다**
@@ -46,53 +46,52 @@
 <tr>
 <td valign="middle"><b>Backend</b></td>
 <td>
-<img src="https://img.shields.io/badge/Java-D6CFF0?style=for-the-badge&logo=openjdk&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Spring_Boot-D6CFF0?style=for-the-badge&logo=springboot&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Spring-D6CFF0?style=for-the-badge&logo=spring&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/MyBatis-D6CFF0?style=for-the-badge&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/JPA-D6CFF0?style=for-the-badge&logo=hibernate&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/JDBC-D6CFF0?style=for-the-badge&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Servlet_/_JSP-D6CFF0?style=for-the-badge&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/Java-D6CFF0?style=for-the-badge&logo=openjdk&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-D6CFF0?style=for-the-badge&logo=springboot&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Spring-D6CFF0?style=for-the-badge&logo=spring&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/MyBatis-D6CFF0?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/JPA-D6CFF0?style=for-the-badge&logo=hibernate&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/JDBC-D6CFF0?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Servlet_/_JSP-D6CFF0?style=for-the-badge&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/Thymeleaf-D6CFF0?style=for-the-badge&logo=thymeleaf&logoColor=4A4458" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Frontend</b></td>
 <td>
-<img src="https://img.shields.io/badge/HTML5-FBD9CE?style=for-the-badge&logo=html5&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/CSS3-FBD9CE?style=for-the-badge&logo=css3&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/JavaScript-FBD9CE?style=for-the-badge&logo=javascript&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/TypeScript-FBD9CE?style=for-the-badge&logo=typescript&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/jQuery-FBD9CE?style=for-the-badge&logo=jquery&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/HTML5-FBD9CE?style=for-the-badge&logo=html5&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-FBD9CE?style=for-the-badge&logo=css3&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-FBD9CE?style=for-the-badge&logo=javascript&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-FBD9CE?style=for-the-badge&logo=typescript&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/jQuery-FBD9CE?style=for-the-badge&logo=jquery&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/React-FBD9CE?style=for-the-badge&logo=react&logoColor=4A4458" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Database</b></td>
 <td>
-<img src="https://img.shields.io/badge/Oracle-CCE2F5?style=for-the-badge&logo=oracle&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/MySQL-CCE2F5?style=for-the-badge&logo=mysql&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/Oracle-CCE2F5?style=for-the-badge&logo=oracle&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-CCE2F5?style=for-the-badge&logo=mysql&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/SQL-CCE2F5?style=for-the-badge&logo=postgresql&logoColor=4A4458" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>DevOps&nbsp;&amp;&nbsp;Cloud</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-C5E5D8?style=for-the-badge&logo=git&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/GitHub-C5E5D8?style=for-the-badge&logo=github&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Linux-C5E5D8?style=for-the-badge&logo=linux&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Docker-C5E5D8?style=for-the-badge&logo=docker&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/AWS_EC2-C5E5D8?style=for-the-badge&logo=amazonec2&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Maven-C5E5D8?style=for-the-badge&logo=apachemaven&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/Git-C5E5D8?style=for-the-badge&logo=git&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-C5E5D8?style=for-the-badge&logo=github&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-C5E5D8?style=for-the-badge&logo=linux&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-C5E5D8?style=for-the-badge&logo=docker&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/AWS_EC2-C5E5D8?style=for-the-badge&logo=amazonec2&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Maven-C5E5D8?style=for-the-badge&logo=apachemaven&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/Tomcat-C5E5D8?style=for-the-badge&logo=apachetomcat&logoColor=4A4458" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Additional</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-F0E2B8?style=for-the-badge&logo=python&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/Python-F0E2B8?style=for-the-badge&logo=python&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/AI_Agent_Harness-F0E2B8?style=for-the-badge&logo=anthropic&logoColor=4A4458" />
-<img src="https://img.shields.io/badge/Claude_Code-F0E2B8?style=for-the-badge&logo=claude&logoColor=4A4458" />
 </td>
 </tr>
 </table>
@@ -152,6 +151,18 @@
 `HTML5`&nbsp;`CSS3`&nbsp;`JavaScript`&nbsp;`jQuery`&nbsp;`Git/GitHub`
 
 [![Repository](https://img.shields.io/badge/GitHub_저장소-8E82C4?style=flat-square&logo=github&logoColor=white)](https://github.com/lastsummer0830/where-space-lives)
+
+---
+
+### 🎮 Pokemon With — 게임 엔진 없이 밑바닥부터 만든 2D 타일 RPG
+
+`개인`&nbsp;&nbsp;`2026.06 ~ 진행 중`&nbsp;&nbsp;**기획 · 개발 · 에셋 파이프라인 전부 단독**
+
+Unity · RPG Maker 같은 게임 엔진 없이 **Phaser 3 + TypeScript만으로 2D 타일 RPG를 밑바닥부터** 만드는 개인 팬게임입니다. 게임 로직뿐 아니라 **원본 게임 데이터를 직접 파싱하는 추출 · 검증 파이프라인**(바이너리 파서 · 맵 렌더러 · 픽셀 단위 대조)까지 함께 만들어, 이식한 데이터가 원본과 일치하는지 눈대중이 아니라 도구로 검증합니다.
+
+`TypeScript`&nbsp;`Phaser 3`&nbsp;`Vite`&nbsp;`Electron`&nbsp;`Playwright`&nbsp;`Python`
+
+[![Repository](https://img.shields.io/badge/GitHub_저장소-8E82C4?style=flat-square&logo=github&logoColor=white)](https://github.com/lastsummer0830/Pokemon_With)
 
 ---
 
