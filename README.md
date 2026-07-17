@@ -1,10 +1,12 @@
-<img src="./assets/banner.svg" width="100%" alt="조아진 · Java / Spring Backend Developer" />
+<img src="./assets/banner.svg" width="100%" alt="조아진 · Java / Spring 풀스택 개발자" />
 
 <br/>
 
 <div align="center">
 
 ### 불편한 걸 말하는 쪽이 아니라, 직접 고치는 쪽이 되고 싶었습니다.
+
+<samp>요식업 헤드셰프 → 풀스택 개발자 · 에이콘아카데미 수료 예정 (2026.07)</samp>
 
 <br/>
 
@@ -25,7 +27,14 @@
 지금은 **규칙이 얽힌 데이터를 구조로 푸는 일**이 제일 즐겁습니다.
 포켓몬 타입 상성표를 손으로 설계하다 키 하나가 안 맞아 며칠을 헤맸던 것도, 결국 그게 재미있어서 계속 붙잡고 있었습니다.
 
-<img src="./assets/journey.svg" width="100%" alt="여정: 요식업 5년 반 → 헤드셰프 → 에이콘아카데미 → 백엔드 개발자" />
+<img src="./assets/journey.svg" width="100%" alt="여정: 요식업 5년 반 → 헤드셰프 → 에이콘아카데미 → 풀스택 개발자" />
+
+<table>
+<tr>
+<td width="50%"><img src="./assets/langs.svg" width="100%" alt="언어 비중 — Java 37.2%, TypeScript 22.8%, JSP/Servlet 19.0%, CSS 14.2%, HTML 4.4%" /></td>
+<td width="50%"><img src="./assets/record.svg" width="100%" alt="협업 기록 — Merged PR 47건, 팀 프로젝트 3개, 개인 프로젝트 2개" /></td>
+</tr>
+</table>
 
 <br/>
 
