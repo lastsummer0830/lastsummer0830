@@ -32,7 +32,7 @@
 <table>
 <tr>
 <td width="50%"><img src="./assets/langs.svg" width="100%" alt="언어 비중 — Java 37.2%, TypeScript 22.8%, JSP/Servlet 19.0%, CSS 14.2%, HTML 4.4%" /></td>
-<td width="50%"><img src="./assets/record.svg" width="100%" alt="협업 기록 — Merged PR 47건, 팀 프로젝트 3개, 개인 프로젝트 2개" /></td>
+<td width="50%"><img src="./assets/record.svg" width="100%" alt="협업 기록 — Merged PR 47건, 팀 프로젝트 4개(그중 1개 팀장), 개인 프로젝트 2개" /></td>
 </tr>
 </table>
 
