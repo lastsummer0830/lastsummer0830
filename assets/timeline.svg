@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="2026 프로젝트 타임라인">
+  <title>2026 프로젝트 타임라인 — 교육과정과 팀 프로젝트 4개</title>
+  <defs>
+    <linearGradient id="edu" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EFEAFB"/>
+      <stop offset="100%" stop-color="#E3F1EA"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="0" y="0" width="1000" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)" font-family="'Pretendard','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕','Noto Sans KR',sans-serif">
+    <rect width="1000" height="300" fill="#FFFDFB"/>
+
+    <text x="40" y="44" font-size="19" font-weight="800" fill="#4A4458" letter-spacing="1">2026 프로젝트 타임라인</text>
+    <text x="40" y="66" font-size="12" font-weight="500" fill="#8B84A3">에이콘아카데미 과정과 함께 달린 팀 프로젝트 4개 — 역할이 점점 커집니다</text>
+
+    <g font-size="12" font-weight="600" fill="#A79FBF" text-anchor="middle">
+      <text x="123" y="96">1월</text>
+      <text x="249" y="96">2월</text>
+      <text x="375" y="96">3월</text>
+      <text x="501" y="96">4월</text>
+      <text x="627" y="96">5월</text>
+      <text x="753" y="96">6월</text>
+      <text x="879" y="96">7월</text>
+    </g>
+    <g stroke="#EFEBF7" stroke-width="1">
+      <line x1="60"  y1="104" x2="60"  y2="272"/>
+      <line x1="186" y1="104" x2="186" y2="272"/>
+      <line x1="312" y1="104" x2="312" y2="272"/>
+      <line x1="438" y1="104" x2="438" y2="272"/>
+      <line x1="564" y1="104" x2="564" y2="272"/>
+      <line x1="690" y1="104" x2="690" y2="272"/>
+      <line x1="816" y1="104" x2="816" y2="272"/>
+      <line x1="942" y1="104" x2="942" y2="272"/>
+    </g>
+
+    <g>
+      <rect x="60" y="110" width="882" height="24" rx="12" fill="url(#edu)">
+        <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+      </rect>
+      <text x="74" y="127" font-size="12" font-weight="700" fill="#6E6689">에이콘아카데미 · 자바 웹개발자 과정 (K-Digital Training)</text>
+    </g>
+
+    <g>
+      <rect x="190" y="146" width="118" height="26" rx="13" fill="#FBD9CE">
+        <animate attributeName="width" values="0;118" dur="0.7s" begin="0.2s" fill="freeze"/>
+      </rect>
+      <text x="204" y="164" font-size="13" font-weight="800" fill="#4A4458">공간이 머무는 곳</text>
+      <g>
+        <rect x="316" y="149" width="44" height="20" rx="10" fill="#F7B9A6"/>
+        <text x="338" y="163" font-size="11" font-weight="800" fill="#5C4438" text-anchor="middle">팀장</text>
+      </g>
+      <text x="368" y="163" font-size="11.5" font-weight="500" fill="#8B84A3">반응형 쇼핑몰 · PR 60여 건 무충돌 통합</text>
+    </g>
+
+    <g>
+      <rect x="316" y="178" width="244" height="26" rx="13" fill="#D6CFF0">
+        <animate attributeName="width" values="0;244" dur="0.7s" begin="0.45s" fill="freeze"/>
+      </rect>
+      <text x="330" y="196" font-size="13" font-weight="800" fill="#4A4458">Pokemon (Java Swing)</text>
+      <g>
+        <rect x="568" y="181" width="72" height="20" rx="10" fill="#B3A6E3"/>
+        <text x="604" y="195" font-size="11" font-weight="800" fill="#37304E" text-anchor="middle">설계 총괄</text>
+      </g>
+      <text x="648" y="195" font-size="11.5" font-weight="500" fill="#8B84A3">배틀 엔진 · 18타입 상성</text>
+    </g>
+
+    <g>
+      <rect x="568" y="210" width="118" height="26" rx="13" fill="#CCE2F5">
+        <animate attributeName="width" values="0;118" dur="0.7s" begin="0.7s" fill="freeze"/>
+      </rect>
+      <text x="582" y="228" font-size="13" font-weight="800" fill="#4A4458">Popflix</text>
+      <g>
+        <rect x="694" y="213" width="118" height="20" rx="10" fill="#A8CBEA"/>
+        <text x="753" y="227" font-size="11" font-weight="800" fill="#2F455C" text-anchor="middle">필름 다이어리 · DB</text>
+      </g>
+      <text x="820" y="227" font-size="11.5" font-weight="500" fill="#8B84A3">직접 제안 · 최종 발표</text>
+    </g>
+
+    <g>
+      <rect x="694" y="242" width="248" height="26" rx="13" fill="#C5E5D8">
+        <animate attributeName="width" values="0;248" dur="0.7s" begin="0.95s" fill="freeze"/>
+      </rect>
+      <text x="708" y="260" font-size="13" font-weight="800" fill="#37493F">KNOWVA</text>
+      <g>
+        <rect x="782" y="245" width="112" height="20" rx="10" fill="#9AD1B8"/>
+        <text x="838" y="259" font-size="11" font-weight="800" fill="#2C4237" text-anchor="middle">learning 도메인</text>
+      </g>
+      <text x="900" y="260" font-size="11" font-weight="800" fill="#3E6650">진행 중→</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="299" rx="18" fill="none" stroke="#EDE7F6"/>
+</svg>
+
