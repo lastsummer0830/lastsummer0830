@@ -26,21 +26,15 @@
 
 ## 🧰 기술 스택
 
-**프로젝트에서 사용한 기술**
-
 | 구분 | 기술 |
 |---|---|
-| **Language** | Java · SQL · JavaScript · jQuery · HTML5 · CSS3 · 반응형 웹 |
-| **Backend** | Servlet/JSP · Spring Boot · MyBatis · Thymeleaf · JSTL · Gson/JSON(AJAX) · RESTful API · OAuth2(네이버·Google·GitHub 로그인) |
-| **설계·패턴** | MVC2 아키텍처 · 객체지향(상속·다형성·인터페이스) |
-| **Database** | Oracle DB · MySQL · SQL 설계 · Join · Transaction |
-| **GUI·데스크톱** | Java Swing · Electron |
-| **Tool·협업** | Git/GitHub · Eclipse · VS Code · Maven · Apache Tomcat · GitHub Pages · Slack · Notion · Obsidian · Figma |
-| **기타** | REST OpenAPI 연동(KMDb) · SHA-256 해시 처리 · AI Agent 활용 |
-
-**수업에서 실습한 기술** <sub>— 아직 프로젝트에 적용해 본 단계는 아닙니다</sub>
-
-`Spring(코어)` `JDBC` `JPA` `Docker` `AWS EC2`
+| **Backend** | Java · Spring Boot · Spring · MyBatis · JPA · JDBC · Servlet/JSP · Thymeleaf · JSTL · OAuth2(네이버·Google·GitHub) · RESTful API · Gson/JSON(AJAX) |
+| **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · jQuery · React · 반응형 웹 |
+| **Database** | Oracle · MySQL · SQL(설계 · Join · Transaction) |
+| **DevOps & Cloud** | Git/GitHub · Linux · Docker · AWS EC2 · Maven · Apache Tomcat · GitHub Pages |
+| **설계 · GUI** | MVC2 아키텍처 · 객체지향(상속·다형성·인터페이스) · Java Swing · Electron |
+| **Tool · 협업** | Eclipse · VS Code · Slack · Notion · Obsidian · Figma |
+| **Additional** | Python · AI Agent 활용 · KMDb OpenAPI 연동 · SHA-256 해시 |
 
 <br/>
 
