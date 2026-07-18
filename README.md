@@ -34,7 +34,7 @@
 
 <img src="./assets/langs.svg" width="49%" alt="언어 비중 — Java 37.2%, TypeScript 22.8%, JSP/Servlet 19.0%, CSS 14.2%, HTML 4.4%, Other 2.4%" />
 &nbsp;
-<img src="./assets/record.svg" width="49%" alt="협업 기록 — 본인 Merged PR 47건, 팀 프로젝트 4개, 개인 프로젝트 2개" />
+<img src="./assets/record.svg" width="49%" alt="협업 기록 — 본인 Merged PR 48건, 팀 프로젝트 4개, 개인 프로젝트 2개" />
 
 </div>
 
@@ -53,7 +53,11 @@
 <img src="https://img.shields.io/badge/JPA-D6CFF0?style=for-the-badge&logo=hibernate&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/JDBC-D6CFF0?style=for-the-badge&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/Servlet_/_JSP-D6CFF0?style=for-the-badge&logoColor=4A4458" />&nbsp;
-<img src="https://img.shields.io/badge/Thymeleaf-D6CFF0?style=for-the-badge&logo=thymeleaf&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/Thymeleaf-D6CFF0?style=for-the-badge&logo=thymeleaf&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/JSTL-D6CFF0?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/OAuth2-D6CFF0?style=for-the-badge&logo=auth0&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/RESTful_API-D6CFF0?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Gson_/_JSON-D6CFF0?style=for-the-badge&logo=json&logoColor=4A4458" />
 </td>
 </tr>
 <tr>
@@ -64,7 +68,8 @@
 <img src="https://img.shields.io/badge/JavaScript-FBD9CE?style=for-the-badge&logo=javascript&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-FBD9CE?style=for-the-badge&logo=typescript&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/jQuery-FBD9CE?style=for-the-badge&logo=jquery&logoColor=4A4458" />&nbsp;
-<img src="https://img.shields.io/badge/React-FBD9CE?style=for-the-badge&logo=react&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/React-FBD9CE?style=for-the-badge&logo=react&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/반응형_웹-FBD9CE?style=for-the-badge&logoColor=4A4458" />
 </td>
 </tr>
 <tr>
@@ -84,14 +89,37 @@
 <img src="https://img.shields.io/badge/Docker-C5E5D8?style=for-the-badge&logo=docker&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/AWS_EC2-C5E5D8?style=for-the-badge&logo=amazonec2&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/Maven-C5E5D8?style=for-the-badge&logo=apachemaven&logoColor=4A4458" />&nbsp;
-<img src="https://img.shields.io/badge/Tomcat-C5E5D8?style=for-the-badge&logo=apachetomcat&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/Tomcat-C5E5D8?style=for-the-badge&logo=apachetomcat&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Pages-C5E5D8?style=for-the-badge&logo=githubpages&logoColor=4A4458" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>설계&nbsp;·&nbsp;GUI</b></td>
+<td>
+<img src="https://img.shields.io/badge/MVC2-E7E3EE?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/객체지향-E7E3EE?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Java_Swing-E7E3EE?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Electron-E7E3EE?style=for-the-badge&logo=electron&logoColor=4A4458" />
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Tool&nbsp;·&nbsp;협업</b></td>
+<td>
+<img src="https://img.shields.io/badge/Eclipse-EDE7DE?style=for-the-badge&logo=eclipseide&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-EDE7DE?style=for-the-badge&logo=visualstudiocode&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Slack-EDE7DE?style=for-the-badge&logo=slack&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Notion-EDE7DE?style=for-the-badge&logo=notion&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Obsidian-EDE7DE?style=for-the-badge&logo=obsidian&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/Figma-EDE7DE?style=for-the-badge&logo=figma&logoColor=4A4458" />
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Additional</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-F0E2B8?style=for-the-badge&logo=python&logoColor=4A4458" />&nbsp;
-<img src="https://img.shields.io/badge/AI_Agent_Harness-F0E2B8?style=for-the-badge&logo=anthropic&logoColor=4A4458" />
+<img src="https://img.shields.io/badge/AI_Agent_Harness-F0E2B8?style=for-the-badge&logo=anthropic&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/KMDb_OpenAPI-F0E2B8?style=for-the-badge&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/SHA--256-F0E2B8?style=for-the-badge&logoColor=4A4458" />
 </td>
 </tr>
 </table>
