@@ -117,7 +117,7 @@
 <td valign="middle"><b>Additional</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-F0E2B8?style=for-the-badge&logo=python&logoColor=4A4458" />&nbsp;
-<img src="https://img.shields.io/badge/AI_Agent_Harness-F0E2B8?style=for-the-badge&logo=anthropic&logoColor=4A4458" />&nbsp;
+<img src="https://img.shields.io/badge/AI_Agent_Harness-F0E2B8?style=for-the-badge&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/KMDb_OpenAPI-F0E2B8?style=for-the-badge&logoColor=4A4458" />&nbsp;
 <img src="https://img.shields.io/badge/SHA--256-F0E2B8?style=for-the-badge&logoColor=4A4458" />
 </td>
