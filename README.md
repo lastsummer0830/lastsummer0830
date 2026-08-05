@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="CHO AJIN — Java · Spring 풀스택 개발자" />
+<img src="./assets/banner.svg" width="100%" alt="CHO AJIN — Java · Spring 백엔드 개발자" />
 
 <br/>
 
