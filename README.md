@@ -15,7 +15,7 @@
 
 **Java · Spring 기반 백엔드 개발자.**
 
-- **AI 에이전트 활용** — 컨텍스트와 검증 루틴을 직접 설계해 개발·문서 작업을 워크플로로 운영. 특강 수료(2026.05).
+- **AI 에이전트 활용** — 컨텍스트 설계 · 규칙 배선 · 검증 루틴을 직접 짜서 개발과 문서 작업을 에이전트로 운영. AI Agent 특강 수료(2026.05).
 - **DB 모델링** — 요구사항에서 엔티티를 뽑아 스키마로 설계. Oracle · MySQL, 15개 테이블 규모.
 - **도메인 설계** — 기능을 도메인 단위로 쪼개고 서비스 계층에 책임 배치.
 - **서버 구현** — Spring Boot · MyBatis 기반. Servlet/JSP MVC2 구조도 취급.
@@ -51,15 +51,6 @@
 ![KMDb OpenAPI](https://img.shields.io/badge/KMDb_OpenAPI-D6CFF0?style=flat-square&logoColor=4A4458)
 ![OOP](https://img.shields.io/badge/OOP-D6CFF0?style=flat-square&logoColor=4A4458)
 ![JPA — Learning](https://img.shields.io/badge/JPA-Learning-E7E5EA?style=flat-square&labelColor=D6CFF0&logo=hibernate&logoColor=4A4458)
-
-### AI Workflow
-
-![AI Agent Workflow](https://img.shields.io/badge/AI_Agent_Workflow-D6CFF0?style=flat-square&logoColor=4A4458)
-![Context Engineering](https://img.shields.io/badge/Context_Engineering-D6CFF0?style=flat-square&logoColor=4A4458)
-![Prompt & Rule Design](https://img.shields.io/badge/Prompt_&_Rule_Design-D6CFF0?style=flat-square&logoColor=4A4458)
-![Automated Verification](https://img.shields.io/badge/Automated_Verification-D6CFF0?style=flat-square&logoColor=4A4458)
-
-<sub>컨텍스트 설계 · 규칙 배선 · 문서화 · 검증 루틴을 직접 짜서 에이전트로 운영. AI Agent 특강 수료(2026.05)</sub>
 
 ### Frontend
 
