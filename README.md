@@ -15,11 +15,11 @@
 
 **Java · Spring 기반 백엔드 개발자.**
 
-- **주 담당** — 팀 프로젝트에서 도메인 설계와 DB 모델링. 스키마부터 서비스 계층까지.
-- **서버** — Servlet/JSP MVC2로 시작해 Spring Boot · MyBatis 기반 구현으로 이동.
-- **데이터** — Oracle · MySQL 스키마 설계와 쿼리 작성. 15개 테이블 규모.
-- **개인 개발** — 게임 엔진 없이 TypeScript · Phaser 3로 2D 타일 RPG 단독 개발 중.
-- **기록** — 구현 근거와 설계 판단을 문서로 남김. AI 에이전트 워크플로로 검증 루틴 운영.
+- **AI 에이전트 활용** — 컨텍스트와 검증 루틴을 직접 설계해 개발·문서 작업을 워크플로로 운영. 특강 수료(2026.05).
+- **DB 모델링** — 요구사항에서 엔티티를 뽑아 스키마로 설계. Oracle · MySQL, 15개 테이블 규모.
+- **도메인 설계** — 기능을 도메인 단위로 쪼개고 서비스 계층에 책임 배치.
+- **서버 구현** — Spring Boot · MyBatis 기반. Servlet/JSP MVC2 구조도 취급.
+- **직접 구현** — 게임 엔진 없이 2D 타일 RPG. 18타입 상성 엔진 · 픽셀 검증 파이프라인 자체 제작.
 
 <br/>
 
@@ -36,8 +36,6 @@
 
 ## Tech Stack
 
-<sub>`학습` 꼬리표가 붙은 배지 = 학습·이수 항목 (프로젝트 실사용 아님)</sub>
-
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-D6CFF0?style=flat-square&logo=openjdk&logoColor=4A4458)
@@ -51,8 +49,17 @@
 ![JDBC](https://img.shields.io/badge/JDBC-D6CFF0?style=flat-square&logoColor=4A4458)
 ![GSON](https://img.shields.io/badge/GSON-D6CFF0?style=flat-square&logoColor=4A4458)
 ![KMDb OpenAPI](https://img.shields.io/badge/KMDb_OpenAPI-D6CFF0?style=flat-square&logoColor=4A4458)
-![객체지향 설계](https://img.shields.io/badge/객체지향_설계-D6CFF0?style=flat-square&logoColor=4A4458)
-![JPA — 학습·이수](https://img.shields.io/badge/JPA-학습-E7E5EA?style=flat-square&labelColor=D6CFF0&logo=hibernate&logoColor=4A4458)
+![OOP](https://img.shields.io/badge/OOP-D6CFF0?style=flat-square&logoColor=4A4458)
+![JPA — Learning](https://img.shields.io/badge/JPA-Learning-E7E5EA?style=flat-square&labelColor=D6CFF0&logo=hibernate&logoColor=4A4458)
+
+### AI Workflow
+
+![AI Agent Workflow](https://img.shields.io/badge/AI_Agent_Workflow-D6CFF0?style=flat-square&logoColor=4A4458)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-D6CFF0?style=flat-square&logoColor=4A4458)
+![Prompt & Rule Design](https://img.shields.io/badge/Prompt_&_Rule_Design-D6CFF0?style=flat-square&logoColor=4A4458)
+![Automated Verification](https://img.shields.io/badge/Automated_Verification-D6CFF0?style=flat-square&logoColor=4A4458)
+
+<sub>컨텍스트 설계 · 규칙 배선 · 문서화 · 검증 루틴을 직접 짜서 에이전트로 운영. AI Agent 특강 수료(2026.05)</sub>
 
 ### Frontend
 
@@ -61,10 +68,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FBD9CE?style=flat-square&logo=javascript&logoColor=4A4458)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FBD9CE?style=flat-square&logo=typescript&logoColor=4A4458)
 ![jQuery](https://img.shields.io/badge/jQuery-FBD9CE?style=flat-square&logo=jquery&logoColor=4A4458)
-![반응형 웹](https://img.shields.io/badge/반응형_웹-FBD9CE?style=flat-square&logoColor=4A4458)
+![Responsive Web](https://img.shields.io/badge/Responsive_Web-FBD9CE?style=flat-square&logoColor=4A4458)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FBD9CE?style=flat-square&logo=tailwindcss&logoColor=4A4458)
 ![Next.js](https://img.shields.io/badge/Next.js-FBD9CE?style=flat-square&logo=nextdotjs&logoColor=4A4458)
-![React — 학습·이수](https://img.shields.io/badge/React-학습-E7E5EA?style=flat-square&labelColor=FBD9CE&logo=react&logoColor=4A4458)
+![React — Learning](https://img.shields.io/badge/React-Learning-E7E5EA?style=flat-square&labelColor=FBD9CE&logo=react&logoColor=4A4458)
 
 ### Database
 
@@ -98,16 +105,9 @@
 ![Slack](https://img.shields.io/badge/Slack-C5E5D8?style=flat-square&logoColor=4A4458)
 ![Notion](https://img.shields.io/badge/Notion-C5E5D8?style=flat-square&logo=notion&logoColor=4A4458)
 ![Obsidian](https://img.shields.io/badge/Obsidian-C5E5D8?style=flat-square&logo=obsidian&logoColor=4A4458)
-![AWS EC2 — 학습·이수](https://img.shields.io/badge/AWS_EC2-학습-E7E5EA?style=flat-square&labelColor=C5E5D8&logoColor=4A4458)
-![Docker — 학습·이수](https://img.shields.io/badge/Docker-학습-E7E5EA?style=flat-square&labelColor=C5E5D8&logo=docker&logoColor=4A4458)
-![GitHub Actions — 학습·이수](https://img.shields.io/badge/GitHub_Actions-학습-E7E5EA?style=flat-square&labelColor=C5E5D8&logo=githubactions&logoColor=4A4458)
-
-### AI Workflow
-
-![AI Agent 특강 수료](https://img.shields.io/badge/AI_Agent_특강_수료-C5E5D8?style=flat-square&logoColor=4A4458)
-![에이전트 워크플로 운영](https://img.shields.io/badge/에이전트_워크플로_운영-C5E5D8?style=flat-square&logoColor=4A4458)
-
-<sub>컨텍스트 설계 · 문서화 · 검증 루틴을 에이전트 워크플로로 운영 (2026.05 특강 수료)</sub>
+![AWS EC2 — Learning](https://img.shields.io/badge/AWS_EC2-Learning-E7E5EA?style=flat-square&labelColor=C5E5D8&logoColor=4A4458)
+![Docker — Learning](https://img.shields.io/badge/Docker-Learning-E7E5EA?style=flat-square&labelColor=C5E5D8&logo=docker&logoColor=4A4458)
+![GitHub Actions — Learning](https://img.shields.io/badge/GitHub_Actions-Learning-E7E5EA?style=flat-square&labelColor=C5E5D8&logo=githubactions&logoColor=4A4458)
 
 <br/>
 
