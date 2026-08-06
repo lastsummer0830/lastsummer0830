@@ -15,8 +15,19 @@
 
 **Java · Spring 기반 백엔드 개발자.**
 
-팀 프로젝트 4개에서 도메인 설계와 DB 모델링 담당. 개인 프로젝트로는 게임 엔진 없이 2D RPG 제작 중.
+팀 프로젝트에서 주로 도메인 설계와 DB 모델링 담당. 개인 프로젝트로는 게임 엔진 없이 2D 타일 RPG 제작 중.
 기능을 나열하기보다 **어떤 문제를 왜 그렇게 풀었는지** 설명 가능한 개발을 지향.
+
+<br/>
+
+## 이력 요약
+
+| 구분 | 내용 |
+|---|---|
+| **학력** | 학점은행제 공학사(컴퓨터공학) 이수 중 · 2027.02 취득 예정 |
+| **교육** | 에이콘아카데미 KDT 자바 웹개발자 과정 수료 (2026.01 ~ 07) · 팀 프로젝트 4건 |
+| **수상** | 에이콘 KDT 과정 우수상 — 과정 전체 1명 수여 (2026.07) |
+| **자격** | 정보처리기사 2026.12 취득 예정 |
 
 <br/>
 
@@ -74,52 +85,9 @@
 
 ## 프로젝트
 
-### KNOWVA — 코딩 학습 e러닝 플랫폼
-
-`팀 7명`&nbsp;&nbsp;`2026.06 ~ 07`&nbsp;&nbsp;**learning 도메인 담당**
-
-행성을 하나씩 밟아 진도를 쌓는 학습 로드맵 서비스. 단계 잠금 · 출석/스트릭 · 레벨 테스트 · 북마크 · 커리큘럼 5기능을 Spring Boot + MyBatis로 구현.
-
-[![저장소](https://img.shields.io/badge/저장소-8E82C4?style=flat-square&logo=github&logoColor=white)](https://github.com/hyunkyumlee/Acorn-E-Learning)
-
-<br/>
-
-### Popflix — 영화 예매 · 필름 다이어리
-
-`팀 5명`&nbsp;&nbsp;`2026.05`&nbsp;&nbsp;**필름 다이어리 모듈 · DB 설계 담당**
-
-관람 기록을 일기처럼 남기는 필름 다이어리 모듈 설계·개발. 뱃지를 테이블에 저장하지 않고 조회 시점에 집계하는 무상태 방식 선택.
-
-[![저장소](https://img.shields.io/badge/저장소-8E82C4?style=flat-square&logo=github&logoColor=white)](https://github.com/lastsummer0830/webProj_Popflex)
-
-<br/>
-
-### pokemonJava — Java Swing 턴제 배틀 RPG
-
-`팀 4명`&nbsp;&nbsp;`2026.03`&nbsp;&nbsp;**전체 설계 주도 · 배틀/상성 엔진**
-
-외부 API 없이 18타입 상성표와 곱연산 데미지를 직접 설계해 구현. 배틀 로그 출력을 인터페이스로 추상화해 콘솔·GUI 양쪽에서 재사용.
-
-[![저장소](https://img.shields.io/badge/저장소-8E82C4?style=flat-square&logo=github&logoColor=white)](https://github.com/lastsummer0830/pokemonJava)
-
-<br/>
-
-### Pokemon With — 게임 엔진 없이 만드는 2D 타일 RPG
-
-`개인`&nbsp;&nbsp;`2026.06 ~ 진행 중`&nbsp;&nbsp;**단독 개발**
-
-Phaser 3 + TypeScript로 밑바닥부터 만드는 개인 프로젝트. 원작 원본과 대조하는 데이터 추출·픽셀 검증 파이프라인까지 단독 구축 — 464픽셀 불일치 0.
-
-[![저장소](https://img.shields.io/badge/저장소-8E82C4?style=flat-square&logo=github&logoColor=white)](https://github.com/lastsummer0830/Pokemon_With)
-
-<br/>
-
----
-
-<div align="center">
-
-**더 자세한 이력 → [이력서 페이지](https://lastsummer0830.github.io/lastsummer0830/)**
-
-<sub>lastsummer0830@gmail.com</sub>
-
-</div>
+| 프로젝트 | 스택 | 요약 |
+|---|---|---|
+| **[KNOWVA](https://github.com/hyunkyumlee/Acorn-E-Learning)**<br/><sub>`팀 7명` · `2026.06 ~ 07`</sub> | Java · Spring Boot<br/>MyBatis · MySQL | **learning 도메인 담당.**<br/>행성을 하나씩 밟아 진도를 쌓는 코딩 학습 로드맵 |
+| **[Popflix](https://github.com/lastsummer0830/webProj_Popflex)**<br/><sub>`팀 5명` · `2026.05`</sub> | Java · Servlet/JSP<br/>Oracle | **필름 다이어리 모듈 · DB 설계 담당.**<br/>영화 예매와 관람 기록을 묶은 서비스 |
+| **[pokemonJava](https://github.com/lastsummer0830/pokemonJava)**<br/><sub>`팀 4명` · `2026.03`</sub> | Java · Swing<br/>Gradle | **전체 설계 주도 · 배틀/상성 엔진 담당.**<br/>18타입 상성표를 직접 설계한 턴제 배틀 |
+| **[Pokemon With](https://github.com/lastsummer0830/Pokemon_With)**<br/><sub>`개인` · `2026.06 ~ 진행 중`</sub> | TypeScript · Phaser 3<br/>Electron | **단독 개발.**<br/>게임 엔진 없이 만드는 2D 타일 RPG. 원작 대조 픽셀 검증 파이프라인 자체 구축 |
